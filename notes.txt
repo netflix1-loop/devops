@@ -1,2 +1,3 @@
 "Hello from DevOps Lab" 
 "A new feature line" 
+"Issue close demo" 
