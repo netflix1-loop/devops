@@ -1,0 +1,2 @@
+"stages: [test]" 
+"ci_ok:\n  stage: test\n  script:\n    - echo 'CI pipeline running on GitLab'" 
